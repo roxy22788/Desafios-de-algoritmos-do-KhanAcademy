@@ -23,17 +23,18 @@ O repositório está organizado da seguinte maneira:
 ## Como Usar
 
 1. Clone este repositório em sua máquina local:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
+```bash
+git clone https://github.com/roxy22788/Desafios-de-algoritmos-do-KhanAcademy.git
+```
 
 
 2. Instale as Dependências
-
+```bash
 npm install
-
+```
 
 
 3. Rode os testes
-
+```bash
 npm run test
+```
