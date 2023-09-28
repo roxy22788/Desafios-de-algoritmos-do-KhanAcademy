@@ -1,4 +1,4 @@
-const insertionSort = require('../2_insertion_sort.js');
+const insertionSort = require('../desafios/2_insertion_sort.js');
 
 test('sort [3, 1, 2, 4, -1', () => {
     let array = [3, 1, 2, 4, -1];
